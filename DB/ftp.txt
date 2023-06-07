@@ -1,0 +1,4 @@
+Username: fclubftpuser
+Password: FTPfclub1321
+Host: 188.121.43.14
+Link: http://www.lexusfclubqatar.com/

@@ -1,0 +1,3 @@
+database: yasir_fclub
+user: yasir_fclub
+password: 10_RW9QAIslT

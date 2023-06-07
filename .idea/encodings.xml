@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/application/views/admin/events/manage_events.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/frange/manage_frange.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/news/manage_news.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/offers/manage_offers.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/arabic/frontend/home/events.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/arabic/frontend/home/gallery.php" charset="UTF-8" />
+  </component>
+</project>
